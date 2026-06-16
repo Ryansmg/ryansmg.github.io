@@ -1,3 +1,3 @@
 # ryansmg.github.io
 
-Visit Sidus : https://bit.ly/notionsidus
+Visit https://minguu.dev
